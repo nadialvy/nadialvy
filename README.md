@@ -2,7 +2,6 @@
 
 An undergraduate student who studies Software Engineering. Currently I'm interested in backend developer things. I be able to create REST API with Laravel and NodeJS (psst im still learning NodeJS)
 
-- 🌱 I’m currently learning about NodeJS
 - 📫 How to reach me: nadialovely1803@gmail.com
 - ⚡ Fun fact: Cat enthuasiast (lol you can easilly guess from my pfp)
 
