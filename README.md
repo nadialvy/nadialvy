@@ -12,7 +12,7 @@ An undergraduate student who studies Software Engineering. I used to interest in
   <a href="https://reactjs.org/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://en.wikipedia.org/wiki/Flutter_(software)#/media/File:Google-flutter-logo.svg" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" /></a>
 
   <br>
   <br>
@@ -27,6 +27,3 @@ An undergraduate student who studies Software Engineering. I used to interest in
 
 ### Reach me on
 - <a href="https://linkedin.com/in/nadia-lovely/">LinkedIn</a>
-<!-- - <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com -->
-<!-- - <a href="https://twitter/dimsmds">Twitter</a> -->
