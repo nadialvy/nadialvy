@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Nadia.
 
-An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is a unpredictable plot twist.
+An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
 - ⚡ Fun fact: Cat enthuasiast (lol you can easilly guess from my pfp)
