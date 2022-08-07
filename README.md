@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Nadia.
 
-An undergraduate student who studies Software Engineering. Currently I'm interested in backend developer things. I be able to create REST API with Laravel and NodeJS (psst im still learning NodeJS)
+An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is a unpredictable plot twist.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
 - ⚡ Fun fact: Cat enthuasiast (lol you can easilly guess from my pfp)
@@ -12,6 +12,7 @@ An undergraduate student who studies Software Engineering. Currently I'm interes
   <a href="https://reactjs.org/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://en.wikipedia.org/wiki/Flutter_(software)#/media/File:Google-flutter-logo.svg" /></a>
 
   <br>
   <br>
