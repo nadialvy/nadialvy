@@ -12,8 +12,8 @@ An undergraduate student who studies Software Engineering. I used to interest in
   <a href="https://reactjs.org/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="Flutter" title="HTML" width="21px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="Gitlab" title="HTML" width="21px" src="[https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvgaasu34QNO4xkd6bluF0C3KY68cAOhxFGKHtzLsCwf7mxCYmT_NOSqMooGwpIRE28s&usqp=CAU)" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="Gitlab" title="Gitlab" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/GitLab_logo.svg" /></a>
 
   <br>
   <br>
