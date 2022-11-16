@@ -24,18 +24,10 @@ An undergraduate student who studies Software Engineering. I used to interest in
 
 <br/>
 <p align="left">
-  <a href="https://nadialvy.dev/">
+  <a href="https://github.com/nadialvy">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nadialvy&show_icons=true&theme=algolia&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadialvy&theme=algolia&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadialvy&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 <br>
-
-<p align="left">
-<a href="https://github.com/nadialvy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nadialvy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadialvy&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 
