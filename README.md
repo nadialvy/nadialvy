@@ -7,9 +7,9 @@ An undergraduate student who studies Software Engineering. I used to interest in
     - Cat enthuasiast (lol you can easilly guess from my pfp)
     - Sometimes im using white theme on vscode 
  
----
+<br/>
 ### Tech Stack
-  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://en.wikipedia.org/wiki/PHP#/media/File:PHP-logo.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
   <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img align="left" alt="HTML" title="HTML" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
