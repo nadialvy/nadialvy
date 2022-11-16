@@ -18,13 +18,16 @@ An undergraduate student who studies Software Engineering. I used to interest in
   <br>
   <br>
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/nadialvy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nadialvy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadialvy&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+## My Statistics
 
-### Reach me on
-- <a href="https://linkedin.com/in/nadia-lovely/">LinkedIn</a>
+<br/>
+<p align="left">
+  <a href="https://nadialvy.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nadialvy&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadialvy&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Nadia Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nadialvy&custom_title=Nadia%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://nadialvy.dev)
+</p>
