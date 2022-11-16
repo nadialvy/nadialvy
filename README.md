@@ -1,4 +1,4 @@
-### Hi Folks! 👋 I'm Nadia.
+### Hi Folks! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nadia.
 
 An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently intern at Gredu@Asia as a junior flutter developer.
 
@@ -17,6 +17,14 @@ An undergraduate student who studies Software Engineering. I used to interest in
 
   <br>
   <br>
+  
+### My GitHub stats 
+
+[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=nadialvy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=nadialvy&count_private=true&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadialvy&layout=compact" />
   
 ## My Statistics
 
