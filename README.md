@@ -18,14 +18,6 @@ An undergraduate student who studies Software Engineering. I used to interest in
   <br>
   <br>
   
-### My GitHub stats 
-
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=nadialvy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://github-readme-stats.vercel.app/api?username=nadialvy&count_private=true&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadialvy&layout=compact" />
-  
 ## My Statistics
 
 <br/>
