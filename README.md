@@ -19,6 +19,7 @@ An undergraduate student who studies Software Engineering. I used to interest in
   <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"><img align="left" alt="Next JS" title="Next JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" /></a>
   <a href="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"><img align="left" alt="Vue JS" title="Vue JS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
 
   <br>
   <br>
