@@ -7,6 +7,7 @@ An undergraduate student who studies Software Engineering. I used to interest in
 - ⚡ Fun fact: 
     - Cat enthuasiast (lol you can easilly guess from my pfp)
     - Sometimes im using white theme on vscode 
+    - Trying to love frontend
  
 ### Tech Stack
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="30px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png" /></a>
