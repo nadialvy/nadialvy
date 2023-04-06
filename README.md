@@ -1,6 +1,6 @@
 ### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Nadia.
 
-An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently intern at Gredu@Asia as a junior flutter developer.
+An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But i try to love frontend :D.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
 - 🎨 My personal website : https://nadlvy.netlify.app/
