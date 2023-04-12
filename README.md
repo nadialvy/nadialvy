@@ -1,6 +1,6 @@
 ### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Nadia.
 
-An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But i try to love frontend :D.
+An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently work at Ardaworks as a flutter developer.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
 - 🎨 My personal website : https://nadlvy.netlify.app/
@@ -20,6 +20,7 @@ An undergraduate student who studies Software Engineering. I used to interest in
   <a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
   <a href="https://vuejs.org/"><img align="left" alt="Vue JS" title="Vue JS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+   <a href="https://chornthorn.github.io/getx-docs/docs/"><img align="left" alt="GetX" title="GetX" width="60px" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Feq1gUS%2FbtrrfoBgADs%2FgLT5lSwrzXkdxvBrs2eZU1%2Fimg.png" /></a>
 
   <br>
   <br>
