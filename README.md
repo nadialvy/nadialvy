@@ -3,7 +3,7 @@
 An undergraduate student who studies Software Engineering. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently work at Ardaworks as a flutter developer.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
-- 🎨 My personal website : https://nadlvy.netlify.app/
+- 🎨 My personal website : https://nadialvy.vercel.app/
 - ⚡ Fun fact: 
     - Cat enthuasiast (lol you can easilly guess from my pfp)
     - Sometimes im using white theme on vscode 
