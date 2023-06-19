@@ -30,7 +30,7 @@ An undergraduate student who studies Information System. I used to interest in b
 <br/>
 <p align="left">
   <a href="https://github.com/nadialvy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadialvy&show_icons=true&theme=algolia" />
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadialvy&show_icons=true&theme=algolia" /> -->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nadialvy&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
