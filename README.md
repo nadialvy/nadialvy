@@ -1,6 +1,6 @@
 ### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Nadia.
 
-An undergraduate student who studies Information System. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently work at Ardaworks as a fullstack developer.
+An undergraduate student who studies Information System. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently work at Ardaworks as a fullstack developer. ((I'm still seeing opportunity to work on real project in backend things ･ᴗ･))
 
 - 📫 How to reach me: nadialovely1803@gmail.com
 - 🎨 My personal website : https://nadialvy.vercel.app/
