@@ -3,11 +3,11 @@
 An undergraduate student who studies Information System. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist. Currently work at Ardaworks as a fullstack developer. ((I'm still seeing opportunity to work on real project in backend things ･ᴗ･))
 
 - 📫 How to reach me: nadialovely1803@gmail.com
-- 🎨 My personal website : https://nadialvy.vercel.app/
+- 🎨 My personal website : https://nadialvy.com/
 - ⚡ Fun fact: 
     - Cat enthuasiast (lol you can easilly guess from my pfp)
     - Sometimes im using white theme on vscode 
-    - Trying to love frontend
+    - Trying to love frontend (update: guess that i love it now)
  
 ### Tech Stack
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="30px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png" /></a>
