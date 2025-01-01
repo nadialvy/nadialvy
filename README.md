@@ -3,7 +3,7 @@
 An undergraduate student majoring in Information System. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
-- 🎨 My personal website : https://nadialvy.com/
+- 🎨 My personal website : https://nadialvy.com/ (it's dead now, im working to revamp it)
 - ⚡ Fun fact: 
     - Cat enthuasiast (lol you can easilly guess from my pfp)
     - Sometimes im using white theme on vscode 
