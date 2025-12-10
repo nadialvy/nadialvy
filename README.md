@@ -1,13 +1,14 @@
-### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Nadia.
+### Hi Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> I'm Nadia Lovely.
 
 An undergraduate student majoring in Information System. I used to interest in backend developer things. But, suddenly i assigned to work on a project using flutter. Which is, frontend. Well...life is an unpredictable plot twist.
 
 - 📫 How to reach me: nadialovely1803@gmail.com
 - 🎨 My personal website : https://nadialovely.tech/
 - ⚡ Fun fact: 
-    - Cat enthuasiast (lol you can easilly guess from my pfp)
-    - Sometimes im using white theme on vscode 
-    - Trying to love frontend (update: guess that i love it now)
+    - A certified cat enthusiast (you can probably guess from my pfp 😼)
+    - Occasionally uses light mode on VS Code (yes… willingly)
+    - Was trying to love frontend (update: mission accomplished, I love it now!)
+    - Currently trying to love backend and ML/AI (fingers crossed I’ll get there ASAP 😬)
  
 ### Tech Stack
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="30px" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png" /></a>
